@@ -1,13 +1,14 @@
 name: deep-thinking-minds
 version: 1.0.0
-type: bundle
-description: "4 mentes para pensar melhor: Daniel Kahneman (vieses cognitivos), Kapil Gupta (verdade), Ray Kurzweil (exponencial), Jesus Cristo (liderança servidora)"
+type: squad
+description: "4 mentes para decisão e pensamento profundo: Daniel Kahneman (vieses/decisão), Kapil Gupta (verdade), Ray Kurzweil (exponencial), Jesus Cristo (liderança servidora). Use when: decisões importantes, clareza mental, visão de futuro ou liderança."
 price: 149
 license: MIT
-entry: BUNDLE.md
+entry: SQUAD.md
 tags:
   - decision-making
-  - philosophy
   - thinking
   - leadership
+  - cognitive-bias
+  - philosophy
   - futurism
