@@ -1,27 +1,18 @@
-# Deep Thinking Minds
-
-[![Available on MyClaude](https://myclaude.sh/badge/available.svg)](https://myclaude.sh/p/deep-thinking-minds)
-
-4 mentes para pensar melhor: Daniel Kahneman (vieses cognitivos), Kapil Gupta (verdade), Ray Kurzweil (exponencial), Jesus Cristo (liderança servidora)
-
-| | |
-|---|---|
-| **Category** | bundle |
-| **Version** | 1.0.0 |
-| **Author** | [@vinicius-caetano](https://myclaude.sh/u/vinicius-caetano) |
-| **License** | MIT |
-| **Price** | $149.00 |
-
-## Installation
-
-This is a paid product. Purchase on the [MyClaude Marketplace](https://myclaude.sh/p/deep-thinking-minds) to install.
-
-```bash
-# After purchase:
-myclaude install deep-thinking-minds
-```
-
-## About
+---
+name: deep-thinking-minds
+display_name: Deep Thinking Minds
+description: "4 mentes para pensar melhor: Daniel Kahneman (vieses cognitivos), Kapil Gupta (verdade), Ray Kurzweil (exponencial), Jesus Cristo (liderança servidora)"
+version: 1.0.0
+author: vinicius-caetano
+license: MIT
+tags:
+  - "decision-making"
+  - "philosophy"
+  - "thinking"
+  - "leadership"
+  - "futurism"
+marketplace_url: "https://myclaude.sh/p/deep-thinking-minds"
+---
 
 # Decisão & Pensamento Profundo
 
@@ -74,13 +65,3 @@ MIT
 
 <sub>Built with MyClaude Studio Engine</sub>
 
-
-## Tags
-
-`decision-making` `philosophy` `thinking` `leadership` `futurism`
-
----
-
-*Published on [MyClaude Marketplace](https://myclaude.sh/p/deep-thinking-minds) — the curated marketplace for the Claude Code ecosystem.*
-
-*This repository is automatically mirrored from MyClaude. To publish updates, use `myclaude publish`.*
